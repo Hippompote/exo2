@@ -26,3 +26,5 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH
 Ceci est une modification locale et distante !
 
 modification sur VS Code 
+
+modification dans la branche 1 !
